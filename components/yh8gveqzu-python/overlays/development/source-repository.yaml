@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yh8gveqzu-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yh8gveqzu-python
